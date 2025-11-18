@@ -1,8 +1,8 @@
-🏫 Application de Gestion des Absences - École Maternelle
+#🏫 Application de Gestion des Absences - École Maternelle
 
 Application web développée avec Spring Boot pour gérer les absences des étudiants d'une école maternelle.
 
-📋 Description
+##📋 Description
 
 Cette application permet de :
 - Gérer les classes de l'école
@@ -10,7 +10,7 @@ Cette application permet de :
 - Enregistrer et suivre les absences
 - Rechercher et filtrer les données
 
-🛠️ Technologies utilisées
+##🛠️ Technologies utilisées
 
 - Backend : Spring Boot 3.x, Spring MVC, Spring Data JPA
 - Frontend : Thymeleaf, Bootstrap 5
@@ -18,7 +18,7 @@ Cette application permet de :
 - Build : Maven
 - IDE : IntelliJ IDEA
 
-📦 Architecture
+##📦 Architecture
 
 L'application suit une architecture en couches (Layered Architecture) :
 ```
